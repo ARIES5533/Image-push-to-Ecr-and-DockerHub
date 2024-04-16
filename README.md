@@ -1,4 +1,4 @@
-# React Application CI/CD Pipeline
+## React Application CI/CD Pipeline
 
 This repository contains a CI/CD pipeline for building a Docker image of a React application, tagging it with "latest" and the GitHub run number, and pushing it to both AWS Elastic Container Registry (ECR) and Docker Hub automatically with every push to the main branch.
 ---
